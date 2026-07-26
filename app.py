@@ -6,7 +6,7 @@ import re
 st.set_page_config(
     page_title="Customer Support Intent Classifier",
     layout="centered",
-    page icon="https://png.pngtree.com/png-vector/20250903/ourlarge/pngtree-d-ai-chatbot-icon-cute-robot-head-with-glossy-blue-design-png-image_17355891.webp"
+    page_icon="https://png.pngtree.com/png-vector/20250903/ourlarge/pngtree-d-ai-chatbot-icon-cute-robot-head-with-glossy-blue-design-png-image_17355891.webp"
 )
 st.markdown("""
 <style>

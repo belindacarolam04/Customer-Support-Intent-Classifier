@@ -142,8 +142,8 @@ Three machine learning models were trained and compared.
 | Model | Accuracy |
 |--------|----------|
 | Logistic Regression | **83.21%** |
-| Multinomial Naive Bayes | **76.00%** |
-| **Linear SVM** | **85.00%** ✅ |
+| Multinomial Naive Bayes | **76.13%** |
+| **Linear SVM** | **85.16%** ✅ |
 
 Linear SVM achieved the highest accuracy and was selected as the final model.
 
@@ -184,7 +184,7 @@ screenshots/app.png
 Then display it using:
 
 ```markdown
-![Application Screenshot](screenshots/app.png)
+![Application Screenshot]("C:\Users\acer\Pictures\Screenshots\cus_image.png")
 ```
 
 ---

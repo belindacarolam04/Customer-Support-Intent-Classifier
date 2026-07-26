@@ -184,7 +184,7 @@ cus_image.png
 Then display it using:
 
 ```markdown
-![Application Screenshot]("cus_image.png")
+![Application Screenshot](cus_image.png)
 ```
 
 ---
@@ -210,8 +210,7 @@ Customer-Support-Intent-Classifier/
 ├── notebooks/
 │   └── intent_classifier.ipynb
 │
-└── screenshots/
-    └── app.png
+└── cus_image.png
 ```
 
 ---

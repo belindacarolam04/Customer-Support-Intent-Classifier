@@ -173,22 +173,6 @@ The trained **Linear SVM** model and **TF-IDF Vectorizer** were serialized using
 
 ---
 
-# 📸 Application Preview
-
-> Add a screenshot of your deployed Streamlit application here.
-
-```text
-images/cus_image.png
-```
-
-Then display it using:
-
-```markdown
-![Application Screenshot](https://raw.githubusercontent.com/belindacarolam04/Customer-Support-Intent-Classifier/main/images/cus_image.png)
-```
-
----
-
 # 📁 Project Structure
 
 ```text

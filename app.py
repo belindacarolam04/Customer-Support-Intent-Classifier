@@ -5,7 +5,8 @@ import re
 # Page configuration
 st.set_page_config(
     page_title="Customer Support Intent Classifier",
-    layout="centered"
+    layout="centered",
+    page icon="<a target="_blank" href="https://icons8.com/icon/4QQvbGyGABVf/message-bot">chat bot</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>"
 )
 st.markdown("""
 <style>

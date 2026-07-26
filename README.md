@@ -184,7 +184,7 @@ images/cus_image.png
 Then display it using:
 
 ```markdown
-![Application Screenshot](images/cus_image.png)
+![Application Screenshot](./images/cus_image.png)
 ```
 
 ---

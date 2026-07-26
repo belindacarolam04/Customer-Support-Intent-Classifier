@@ -194,7 +194,8 @@ Customer-Support-Intent-Classifier/
 ├── notebooks/
 │   └── intent_classifier.ipynb
 │
-└── cus_image.png
+└── images/
+    └──cus_image.png
 ```
 
 ---

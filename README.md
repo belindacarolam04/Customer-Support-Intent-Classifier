@@ -184,7 +184,7 @@ images/cus_image.png
 Then display it using:
 
 ```markdown
-![Application Screenshot](./images/cus_image.png)
+![Application Screenshot](https://raw.githubusercontent.com/belindacarolam04/Customer-Support-Intent-Classifier/main/images/cus_image.png)
 ```
 
 ---

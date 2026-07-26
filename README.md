@@ -178,13 +178,13 @@ The trained **Linear SVM** model and **TF-IDF Vectorizer** were serialized using
 > Add a screenshot of your deployed Streamlit application here.
 
 ```text
-screenshots/app.png
+cus_image.png
 ```
 
 Then display it using:
 
 ```markdown
-![Application Screenshot]("C:\Users\acer\Pictures\Screenshots\cus_image.png")
+![Application Screenshot]("cus_image.png")
 ```
 
 ---
